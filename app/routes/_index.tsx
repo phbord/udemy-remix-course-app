@@ -7,10 +7,10 @@ export const meta: MetaFunction = () => {
   ];
 };
 
-export default function Index() {
+export default function IndexPage() {
   return (
     <>
-    <h1>Home page</h1>
+      <h1>Home page</h1>
     </>
   );
 }
