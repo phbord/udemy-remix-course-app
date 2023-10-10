@@ -1,7 +1,9 @@
+import ExpenseForm from '~/components/expenses/ExpenseForm'
+
 export default function UpdateExpensesPage() {
   return (
     <>
-      <h1>Update Expenses page</h1>
+      <ExpenseForm />
     </>
   )
 }
